@@ -1,2 +1,6 @@
-# okok16.github.io
-弄一个网站
+<html>
+<body style="background-color:yellow">
+<h2 style="background-color:red font-family:arial;color:red;font-size:100px;">你被骗了</h2>
+<p style="background-color:green font-family:arial;color:green;font-size:20px;">请注意，你的信息已被收集上传</p>
+</body>
+</html>
